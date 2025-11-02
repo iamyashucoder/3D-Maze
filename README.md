@@ -8,8 +8,7 @@ A Python project that creates procedurally generated 3D mazes and solves them us
 - **Pathfinding**: Solves mazes using Breadth-First Search (BFS) algorithm
 - **3D Visualization**: Interactive 3D visualization with matplotlib
 - **Simple Navigation**: View the maze from any angle with mouse controls
-
-## Setup Instructions
+![Demo Animation](./assets/demo.gif)
 
 ### 1. Create Conda Environment
 
